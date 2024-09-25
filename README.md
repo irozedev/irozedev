@@ -4,7 +4,7 @@
 - 💼 My background includes 4 years of front-end experience, focusing on **HTML/CSS**, **JavaScript**, and UI implementation. I also have 1 year of experience with **Node.js**, working on pet projects.
 - 💞️ Looking to collaborate on **front-end** or **full-stack** projects, and open to learning from diverse teams and contributing to exciting ideas.
 - 🎯 My goals: To improve my skills in building scalable, efficient applications while integrating my growing language proficiency.
-- 📫 How to reach me: Feel free to reach out to me via **[email]** or through GitHub.
+- 📫 How to reach me: Feel free to reach out to me via GitHub.
 - 🌍 Fun fact: Though I'm based in Belgium now, I'm originally from Kharkiv, Ukraine. I'm driven by a curiosity for cultures, languages, and, of course, code.
 
 <!---
